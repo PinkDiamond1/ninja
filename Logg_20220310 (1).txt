@@ -1,0 +1,12 @@
+2022-03-10 00:33:33 - bizom_AlarmReceiver: Daily Alarm triggered!! 
+2022-03-10 04:43:45 - bizom_AlarmUtils: Cancelling Alarm type: 600 
+2022-03-10 04:43:45 - bizom_DailyTasksUtils: Doing daily tasks ! 
+2022-03-10 04:43:45 - bizom_NetworkStatus:  old value - false and new value true 
+2022-03-10 04:43:45 - SyncUtils: Setting up Force Sync Thread !!! 
+2022-03-10 04:43:45 - bizom_NetworkMonitor: network onavailable 
+2022-03-10 04:43:45 - bizom_BootCompleteRece: Boot Completed !! Do daily tasks !! 
+2022-03-10 05:03:43 - bizom_NetworkStatus:  old value - false and new value true 
+2022-03-10 05:03:43 - bizom_NetworkMonitor: network onavailable 
+2022-03-10 05:03:43 - bizom_DailyTasksUtils: Doing daily tasks ! 
+2022-03-10 05:03:43 - bizom_AlarmReceiver: 600  
+2022-03-10 05:03:43 - bizom_AlarmReceiver: Daily Alarm triggered!! 
